@@ -1,0 +1,6 @@
+/posts/.env
+/posts/node_modules
+
+/comments/.env
+/comments/node_modules
+
